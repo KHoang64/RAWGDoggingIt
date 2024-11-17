@@ -1,0 +1,136 @@
+[
+  {
+    "id": 324997,
+    "name": "Baldur's Gate III",
+    "released": "2023-08-03",
+    "rating": 4.47,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series S/X",
+      "macOS"
+    ],
+    "_id": "67393866f099d417fe3a808f",
+    "__v": 0
+  },
+  {
+    "id": 906547,
+    "name": "Hogwarts Legacy",
+    "released": "2023-02-10",
+    "rating": 3.95,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "Nintendo Switch"
+    ],
+    "_id": "67393866f099d417fe3a8090",
+    "__v": 0
+  },
+  {
+    "id": 58806,
+    "name": "Satisfactory",
+    "released": "2024-09-11",
+    "rating": 4.29,
+    "platforms": [
+      "PC"
+    ],
+    "_id": "67393866f099d417fe3a8091",
+    "__v": 0
+  },
+  {
+    "id": 303576,
+    "name": "Vampire: The Masquerade - Bloodlines 2",
+    "released": "2024-11-30",
+    "rating": 3.89,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "_id": "67393866f099d417fe3a8092",
+    "__v": 0
+  },
+  {
+    "id": 268446,
+    "name": "Barotrauma",
+    "released": "2023-03-13",
+    "rating": 3.78,
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux"
+    ],
+    "_id": "67393866f099d417fe3a8093",
+    "__v": 0
+  },
+  {
+    "id": 50576,
+    "name": "Atomic Heart",
+    "released": "2023-02-21",
+    "rating": 3.86,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series S/X"
+    ],
+    "_id": "67393866f099d417fe3a8094",
+    "__v": 0
+  },
+  {
+    "id": 602224,
+    "name": "V Rising",
+    "released": "2024-05-08",
+    "rating": 3.67,
+    "platforms": [
+      "PC"
+    ],
+    "_id": "67393866f099d417fe3a8095",
+    "__v": 0
+  },
+  {
+    "id": 58386,
+    "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "released": "2024-11-20",
+    "rating": 3.85,
+    "platforms": [
+      "PC",
+      "Xbox Series S/X"
+    ],
+    "_id": "67393866f099d417fe3a8096",
+    "__v": 0
+  },
+  {
+    "id": 58779,
+    "name": "Starfield",
+    "released": "2023-09-06",
+    "rating": 3.29,
+    "platforms": [
+      "PC",
+      "Xbox Series S/X"
+    ],
+    "_id": "67393866f099d417fe3a8097",
+    "__v": 0
+  },
+  {
+    "id": 795632,
+    "name": "Resident Evil 4",
+    "released": "2023-03-24",
+    "rating": 4.62,
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series S/X",
+      "iOS"
+    ],
+    "_id": "67393866f099d417fe3a8098",
+    "__v": 0
+  }
+]
